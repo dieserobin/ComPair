@@ -1,0 +1,41 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+canvas {
+  display: block;
+}
+
+h1 {
+  color: white;
+}
+
+h1 {
+  color: white;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: black;
+}
+
+button {
+  background-color: rgb(50,50,50);
+  /* Green */
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  transition-duration: 0.5s;
+}
+
+button:hover{
+  background-color: white;
+  color: black;
+}
+
